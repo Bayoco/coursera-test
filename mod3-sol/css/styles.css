@@ -1,0 +1,60 @@
+#header-nav {
+	border-radius: 0px;
+	border:solid black 2px;
+	background-color: gray;
+}
+
+.navbar-header{
+	font-size: 2.5em;
+	text-align: left;
+	float: left;
+	margin-left: 20px;
+	margin-right: 20px;
+	
+
+}
+
+h2{
+	text-align: center;
+	margin: 10px 10px 25px 10px ;
+}
+#box{
+	margin:10px;
+	background-color: gray;
+	padding:10px;
+	text-align: left;
+	font-size: 1.25em;
+}
+#title{
+	text-align: center;
+	font-size: 1.5em;
+	clear: both;
+	margin-bottom: 10px;
+
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid black;
+
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  
+}
+
+span{
+	font-size: 1.2em;
+	color: black;
+	
+}
+.ult{
+	text-align: center;
+	background-color: white;
+	
+}
+.list{
+	border-bottom:  1px solid black;
+}
+#nav-list{
+	margin:0px;
+	width: 100%;
+}
